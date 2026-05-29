@@ -22,9 +22,7 @@ WalletGen is a high-speed, open-source crypto wallet generator and balance finde
 
 [![platform](https://img.shields.io/badge/platform-Windows%20%7C%20MacOS%20%7C%20Linux%20%7C%20Android-blue)](https://github.com/tony-dev1/wallets-finder/releases/tag/walletgen)
 ![build](https://img.shields.io/badge/build-passing-brightgreen)
-![discord](https://img.shields.io/badge/discord-tonydevbtc-blue.svg?logo=discord&label=discord)
 [![x](https://img.shields.io/badge/@tonydevbtc-black.svg?logo=x)](https://x.com/tonydevbtc)
-[![telegram](https://img.shields.io/badge/@wallgenbtc-blue.svg?logo=telegram)](https://t.me/wallgenbtc)
 
 <p align="center">
     <img width="1000" alt="WalletGen wallet generator demo" title="WalletGen wallet generator" height="460" src="/assets/walletgen.webp" />
@@ -72,6 +70,10 @@ Unlike Python-based brute force tools, **WalletGen** is written in C++ and optim
 
 <p align="center">
     <img width="1000" height="460" alt="WalletGen search lost bitcoin wallets on MacOS Demo" title="WalletGen search lost bitcoin wallets on MacOS" src="/assets/walletgen_macos2.gif" />
+</p>
+
+<p align="center">
+    <img width="1000" alt="WalletGen MacOS wallet generator demo" title="WalletGen wallet generator" height="460" src="/assets/walletgen_macos2.webp" />
 </p>
 
 
@@ -165,36 +167,6 @@ If you have a full 12-word seed, simply enter it in full with a space. WalletGen
 ## My Finds
 
 ![mywallet](/assets/wallet.png)
-
-
-I’ve personally recovered two BTC wallets with a balance. The first had 0.000032 BTC, the second contained 0.0528 BTC (roughly $4800 at the time of discovery).  
-Here’s the link to the wallet: [bc1qk3m62hx2hh5mhvc0tj45f9xflzcnu0sur3rvay](https://mempool.space/address/bc1qk3m62hx2hh5mhvc0tj45f9xflzcnu0sur3rvay).
-
-<p align="center">
-    <img width="1000" height="460" alt="WalletGen found first lost bitcoin wallet" title="WalletGen found first lost bitcoin wallet" src="/assets/tocozu.webp" />
-</p>
-
-### New Find 4/9/2025
-
-After a week of non-stop wallet searching, I finally found a [wallet](https://mempool.space/address/bc1q29c5m3w4jxtsj4vcd2ccw4t68xm8m7vs5vytu0) with 0.25 bitcoin ($19k). This is my 4th and biggest find of all time.
-
-<p align="center">
-    <img width="1000" height="460" src="https://github.com/user-attachments/assets/57f95d59-9da2-44f0-8f66-dbbe7fe69aee" />
-</p>
-
-## New Find 5/5/2025
-
-[bc1qpm0k3kcmthwsa4zseh33g3hl7eju8u8nkt83kp](https://mempool.space/address/bc1qpm0k3kcmthwsa4zseh33g3hl7eju8u8nkt83kp)
-
-<p align="center">
-    <img width="1000" height="460" src="https://github.com/user-attachments/assets/6c5faff7-594f-4d37-b91b-f6482c728611" />
-</p>
-
-## New Find 6/18/2025
-
-<p align="center">
-    <img width="1000" height="460" src="https://github.com/user-attachments/assets/552d00df-dc70-4c42-9fa9-1cf258681af7" />
-</p>
 
 
 ## Building the Project
